@@ -15,12 +15,12 @@ html {
     color: rgb(135, 135, 135);
 }
 .top h1 {
-    font-size: 2.5rem;
+    font-size: 300%;
 }
 .top li {
-    font-size: 2rem;
+    font-size: 200%;
     font-family: "Montserrat", sans-serif;
-    padding: 0.5rem;
+    padding: 1rem;
 }
 .top a{
     color: rgb(135, 135, 135);
@@ -56,14 +56,12 @@ html {
 /* Images */
 
 #images {
-    max-width: 5.5%;
-    min-height: 5.5%;
-    flex: 1 1 2rem;
+    max-width: 5.4%;
+    min-height: 5.4%;
     vertical-align:middle;
     display: inline-flex;
-    width: 90%;
-    margin-left: 2.4%;
-    margin-right: 2%;
+    margin-left: 2.3%;
+    margin-right: 2.3%;
     
 }
 
@@ -73,7 +71,7 @@ html {
 /* Desc */
 
 .desc h1 {
-    text-align: center;
+    text-align:center;
     font-size: 200%;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     margin-top: 2rem;
@@ -110,5 +108,3 @@ html {
     margin-top: 2rem;
     color:rgb(180, 180, 180)
 }
-
-
