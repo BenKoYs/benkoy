@@ -62,7 +62,7 @@ html {
     vertical-align:middle;
     display: inline-flex;
     width: 90%;
-    margin-left: 2%;
+    margin-left: 2.4%;
     margin-right: 2%;
     
 }
@@ -95,9 +95,9 @@ html {
     max-width: 50%;
     min-height: 50%;
     display: block;
-    width: 90%;
-    margin-left: 25%;
-    margin-right: 25%;
+    text-align:center;
+    margin:auto;
+    display:flex;
 }
 
 
