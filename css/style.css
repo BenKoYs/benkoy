@@ -1,0 +1,114 @@
+/* Global CSS */
+
+html {
+    font-size: 62.5%;
+    background-color: rgb(35, 35, 35);
+}
+
+/* End Global CSS */
+
+
+/* top(header) */
+
+.top {
+    background: rgb(20, 20, 20);
+    color: rgb(135, 135, 135);
+}
+.top h1 {
+    font-size: 2.5rem;
+}
+.top li {
+    font-size: 2rem;
+    font-family: "Montserrat", sans-serif;
+    padding: 0.5rem;
+}
+.top a{
+    color: rgb(135, 135, 135);
+    text-decoration: none;
+}
+
+
+.top nav{
+    min-height: 10vh;
+    display: flex;
+    align-items: center;
+    width: 90%;
+    margin: auto;
+    padding: 0.5rem;
+}
+
+.top nav ul{
+    display: flex;
+    flex: 10%;
+    justify-content: space-around;
+    align-items: center;
+    list-style: none;
+}
+
+#logo {
+    font-family: "Montserrat", sans-serif;
+    flex: 1 1 40rem;
+}
+
+/* End top(header) */
+
+
+/* Images */
+
+#images {
+    max-width: 5.5%;
+    min-height: 5.5%;
+    flex: 1 1 2rem;
+    vertical-align:middle;
+    display: inline-flex;
+    width: 90%;
+    margin-left: 2%;
+    margin-right: 2%;
+    
+}
+
+/* End Images */
+
+
+/* Desc */
+
+.desc h1 {
+    text-align: center;
+    font-size: 200%;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-top: 2rem;
+    color:rgb(180, 180, 180)
+}
+.desc h2 {
+    text-align: center;
+    font-size: 150%;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-top: 2rem;
+    color:rgb(73, 73, 73)
+}
+
+/* End Desc */
+
+/* Video */
+
+#video {
+    max-width: 50%;
+    min-height: 50%;
+    display: block;
+    width: 90%;
+    margin-left: 25%;
+    margin-right: 25%;
+}
+
+
+/* Qui */
+
+.qui h1 {
+    text-align: center;
+    font-size: 200%;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin-top: 2rem;
+    color:rgb(180, 180, 180)
+}
+
+
