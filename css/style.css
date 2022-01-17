@@ -15,10 +15,10 @@ html {
     color: rgb(135, 135, 135);
 }
 .top h1 {
-    font-size: 300%;
+    font-size: 250%;
 }
 .top li {
-    font-size: 200%;
+    font-size: 2vh;
     font-family: "Montserrat", sans-serif;
     padding: 1rem;
 }
