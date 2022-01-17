@@ -15,10 +15,10 @@ html {
     color: rgb(135, 135, 135);
 }
 .top h1 {
-    font-size: 250%;
+    font-size: 230%;
 }
 .top li {
-    font-size: 2vh;
+    font-size: 200%;
     font-family: "Montserrat", sans-serif;
     padding: 1rem;
 }
@@ -107,4 +107,44 @@ html {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     margin-top: 2rem;
     color:rgb(180, 180, 180)
+}
+
+/* End Qui */
+
+/* Proj */
+
+.info1 {
+    position: absolute;
+    padding: 1%;
+    background: rgb(49, 49, 49);
+    box-shadow: 0 15% 15% rgba(0,0,0,.2);
+    box-sizing: border-box;
+    width: 90%;
+    margin-left: 2.8%;
+    margin-top: 2.5%;
+
+}
+
+.sc1 {
+    width: 35vw;
+    height: 20vw;
+    background:url("https://i.ibb.co/myTytyJ/benkoy-cmd.png");
+    background-size: 100% 100%;
+    float: left;
+    shape-outside: circle();
+}
+
+.info1 h2 {
+    font-size: 2vw;
+    color: rgb(180, 180, 180);
+    font-family: sans-serif;
+    margin-left: 40vw;
+    margin-right: 5vw;
+}
+
+.dlb img {
+    max-width: 15%;
+    min-height: 10%;
+    margin-left: 31%;
+    vertical-align:top;
 }
