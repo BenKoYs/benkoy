@@ -5,8 +5,6 @@ html {
     background-color: rgb(35, 35, 35);
 }
 
-/* End Global CSS */
-
 
 /* top(header) */
 
@@ -62,7 +60,10 @@ html {
     display: inline-flex;
     margin-left: 2.3%;
     margin-right: 2.3%;
-    
+}
+
+.img_line {
+    margin-left: 26.5%;
 }
 
 /* End Images */
