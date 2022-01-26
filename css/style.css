@@ -93,8 +93,8 @@ html {
 /* Video */
 
 #video {
-    max-width: 50%;
-    min-height: 50%;
+    width: 50vw;
+    height: 28.1vw;
     display: block;
     text-align:center;
     margin:auto;
