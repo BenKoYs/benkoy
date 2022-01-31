@@ -75,7 +75,7 @@ html {
 
 .desc h1 {
     text-align:center;
-    font-size: 200%;
+    font-size: 350%;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     margin-top: 2rem;
     color:rgb(180, 180, 180)
@@ -84,7 +84,7 @@ html {
     text-align: center;
     font-size: 150%;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    margin-top: 4vmax;
+    margin-top: 27vmax;
     color:rgb(73, 73, 73)
 }
 
@@ -123,7 +123,7 @@ html {
     box-shadow: 0 15% 15% rgba(0,0,0,.2);
     box-sizing: border-box;
     width: 90vw;
-    margin-left: 2.8%;
+    margin-left: 3.8vw;
     margin-top:10vmax;
 
 }
@@ -212,7 +212,7 @@ html {
 }
 
 .titre_proj {
-    font-family: 'Open Sans','Helvetica Neue',Helvetica,Arial,sans-serif;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     color: rgb(180, 180, 180) ;
     font-size: 1.6vmax;
     text-align: center;
@@ -226,5 +226,14 @@ html {
     margin-top: 55vmax;
     color:rgb(73, 73, 73)
 }
+
+.titre_proj1 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgb(180, 180, 180) ;
+    font-size: 1.5vmax;
+    text-align: center;
+    margin-top: 4vmax;
+}
+
 
 /* End Proj */
