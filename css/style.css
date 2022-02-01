@@ -75,7 +75,7 @@ html {
 
 .desc h1 {
     text-align:center;
-    font-size: 350%;
+    font-size: 2.5vw;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     margin-top: 2rem;
     color:rgb(180, 180, 180)
@@ -170,7 +170,7 @@ html {
     box-shadow: 0 15% 15% rgba(0,0,0,.2);
     box-sizing: border-box;
     width: 90vw;
-    margin-left: 2.8%;
+    margin-left: 3.8vw;
 }
 
 .info2 h2 {
