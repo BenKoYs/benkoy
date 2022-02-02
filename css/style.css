@@ -138,7 +138,7 @@ html {
 }
 
 .info1 h2 {
-    font-size: 2vw;
+    font-size: 1.9vw;
     color: rgb(180, 180, 180);
     font-family: sans-serif;
     margin-left: 40vw;
@@ -174,7 +174,7 @@ html {
 }
 
 .info2 h2 {
-    font-size: 2vw;
+    font-size: 1.9vw;
     color: rgb(180, 180, 180);
     font-family: 'Open Sans','Helvetica Neue',Helvetica,Arial,sans-serif;
     margin-left: 40vw;
@@ -194,7 +194,6 @@ html {
     color: rgb(15, 15, 15);
     text-align: center;
     font-family: 'Open Sans','Helvetica Neue',Helvetica,Arial,sans-serif;
-    margin-top: 4vw;
     margin-left: 40vw;
     margin-right: 5vw;
 }
