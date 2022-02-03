@@ -7,6 +7,7 @@ html {
 
 /* End Global CSS */
 
+/* -------------Index------------- */
 
 /* top(header) */
 
@@ -53,7 +54,7 @@ html {
 /* End top(header) */
 
 
-/* Images */
+/* Images(reseaux) */
 
 #images {
     max-width: 5.4%;
@@ -68,23 +69,23 @@ html {
     margin-left: 37.5%;
 }
 
-/* End Images */
+/* End Images(reseaux) */
 
 
-/* Desc */
+/* Desc(titre) */
 
 .desc h1 {
     text-align:center;
     font-size: 2.5vw;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    margin-top: 2rem;
+    margin-top: rem;
     color:rgb(180, 180, 180)
 }
 .desc h2 {
     text-align: center;
     font-size: 150%;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    margin-top: 27vmax;
+    margin-top: 3vmax;
     color:rgb(73, 73, 73)
 }
 
@@ -100,9 +101,23 @@ html {
     margin:auto;
     display:flex;
 }
+/* End Video */
 
+/* showproj */
 
-/* Qui */
+.showproj {
+    width: 50vw;
+    height: 28vw;
+    background:url("https://i.ibb.co/SV4BrRq/image-2022-02-03-130430.png");
+    background-size: 100% 100%;
+    text-align:center;
+    margin:auto;
+    margin-top: 1vw;
+}
+
+/* -------------End Index------------- */
+
+/* -------------About------------- */
 
 .qui h1 {
     text-align: center;
@@ -112,10 +127,11 @@ html {
     color:rgb(180, 180, 180)
 }
 
-/* End Qui */
+/* -------------End About------------- */
 
-/* Proj */
+/* -------------Projet------------- */
 
+/* Proj(n1) */
 .info1 {
     position: absolute;
     padding: 1vw;
@@ -131,7 +147,7 @@ html {
 .sc1 {
     width: 35vw;
     height: 20vw;
-    background:url("https://i.ibb.co/z5BK7yY/CEC.png");
+    background:url("https://i.ibb.co/SV4BrRq/image-2022-02-03-130430.png");
     background-size: 100% 100%;
     float: left;
     shape-outside: circle();
@@ -152,6 +168,10 @@ html {
     margin-left: 40vw;
     margin-right: 5vw;
 }
+
+/* End Proj(n1) */
+
+/* Proj(n2) */
 
 .sc2 {
     width: 35vw;
@@ -198,6 +218,9 @@ html {
     margin-right: 5vw;
 }
 
+/* End Proj(n2) */
+
+/* buttons */
 .dlb {
     margin-left: 58%;
 }
@@ -210,13 +233,21 @@ html {
     display: inline-flex;
 }
 
-.titre_proj {
+/* End buttons */
+
+/* Title projet */
+
+.titre_proj1 {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     color: rgb(180, 180, 180) ;
     font-size: 1.6vmax;
     text-align: center;
     margin-top: 3vmax;
 }
+
+/* End Title projet */
+
+/* signature */
 
 .desc_proj h2 {
     text-align: center;
@@ -226,13 +257,6 @@ html {
     color:rgb(73, 73, 73)
 }
 
-.titre_proj1 {
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    color: rgb(180, 180, 180) ;
-    font-size: 1.5vmax;
-    text-align: center;
-    margin-top: 4vmax;
-}
+/* End signature */
 
-
-/* End Proj */
+/* -------------End Projet------------- */
