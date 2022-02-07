@@ -61,7 +61,7 @@ html {
     min-height: 5.4%;
     vertical-align:middle;
     display: inline-flex;
-    margin-left: 2.3%;
+    margin-left: 0.4%;
     margin-right: 2.3%;
 }
 
@@ -83,7 +83,7 @@ html {
 }
 .desc h2 {
     text-align: center;
-    font-size: 150%;
+    font-size: 2vw;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     margin-top: 3vmax;
     color:rgb(73, 73, 73)
@@ -113,6 +113,7 @@ html {
     text-align:center;
     margin:auto;
     margin-top: 1vw;
+    
 }
 
 /* -------------End Index------------- */
