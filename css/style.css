@@ -83,7 +83,7 @@ html {
 }
 .desc h2 {
     text-align: center;
-    font-size: 2vw;
+    font-size: 1.5vmax;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     margin-top: 3vmax;
     color:rgb(73, 73, 73)
@@ -252,7 +252,7 @@ html {
 
 .desc_proj h2 {
     text-align: center;
-    font-size: 150%;
+    font-size: 1.5vmax;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     margin-top: 55vmax;
     color:rgb(73, 73, 73)
