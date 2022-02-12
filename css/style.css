@@ -133,15 +133,20 @@ html {
 /* -------------Projet------------- */
 
 /* Proj(n1) */
+
+.projets {
+    margin-left: 2.5vw;
+}
+
 .info1 {
-    position: absolute;
+    position: relative;
     padding: 1vw;
     background: rgb(49, 49, 49);
     box-shadow: 0 15% 15% rgba(0,0,0,.2);
     box-sizing: border-box;
     width: 90vw;
-    margin-left: 3.8vw;
-    margin-top:10vmax;
+    margin-bottom:1vh;
+    height: 22vw;
 
 }
 
@@ -174,6 +179,16 @@ html {
 
 /* Proj(n2) */
 
+.info2 {
+    position: relative;
+    padding: 1vw;
+    background: rgb(49, 49, 49);
+    box-shadow: 0 15% 15% rgba(0,0,0,.2);
+    box-sizing: border-box;
+    width: 90vw;
+    height: 22vw;
+    margin-top: 1vw;
+}
 .sc2 {
     width: 35vw;
     height: 20vw;
@@ -183,16 +198,6 @@ html {
     shape-outside: circle();
 }
 
-.info2 {
-    position: absolute;
-    top: 45vmax;
-    padding: 1vw;
-    background: rgb(49, 49, 49);
-    box-shadow: 0 15% 15% rgba(0,0,0,.2);
-    box-sizing: border-box;
-    width: 90vw;
-    margin-left: 3.8vw;
-}
 
 .info2 h2 {
     font-size: 1.9vw;
@@ -254,7 +259,7 @@ html {
     text-align: center;
     font-size: 1.5vmax;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    margin-top: 55vmax;
+    margin-top: 5vh;
     color:rgb(73, 73, 73)
 }
 
