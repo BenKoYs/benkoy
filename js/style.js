@@ -12,16 +12,16 @@ function ecriture(){
 setInterval(ecriture,300)
 // end BIENVENUE !
 
-/* trets projet */
+/* traits projet */
 let t = ["_"," ","_"," "];
 var y=0;
-function tret(){
+function trait(){
     if(y<1){
     y++;
     }else{
     y=0;
-    }document.getElementById("trets").firstElementChild.innerHTML = "Projet"+t[y];
+    }document.getElementById("traits").firstElementChild.innerHTML = "Projet"+t[y];
 
 }
-setInterval(tret,500)
-/* end trets projet */
+setInterval(trait,500)
+/* end traits projet */
