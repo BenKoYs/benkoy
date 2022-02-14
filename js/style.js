@@ -1,8 +1,8 @@
 //BIENVENUE !
-let alphab = ["B","I","E","N","V","E","N","U","E"," ","!"," ","B","I","E","N","V","E","N","U","E"," ","!"," "];
+let alphab = [" ","E","U","N","E","V","N","E","I","B"," ","!"," ","E","U","N","E","V","N","E","I","B"," ","!"];
 var x=0;
 function ecriture(){
-    document.getElementById("ecrit").firstElementChild.innerHTML = alphab[x]+alphab[x+1]+alphab[x+2]+alphab[x+3]+alphab[x+4]+alphab[x+5]+alphab[x+6]+alphab[x+7]+alphab[x+8]+alphab[x+9]+alphab[x+10]+alphab[x+11];
+    document.getElementById("ecrit").firstElementChild.innerHTML = alphab[x+11]+alphab[x+10]+alphab[x+9]+alphab[x+8]+alphab[x+7]+alphab[x+6]+alphab[x+5]+alphab[x+4]+alphab[x+3]+alphab[x+2]+alphab[x+1]+alphab[x];
     if(x<10){
     x++;
     }else{
