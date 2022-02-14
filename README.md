@@ -1,3 +1,2 @@
-# benkoy
-BenKoY's website
+# benkoy's Website
 Now on benkoy.ml sadly for github...
