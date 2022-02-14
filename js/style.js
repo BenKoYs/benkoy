@@ -12,7 +12,7 @@ function ecriture(){
 setInterval(ecriture,300)
 // end BIENVENUE !
 
-/* traits projet */
+/* traits projet
 let t = ["_"," ","_"," "];
 var y=0;
 function trait(){
@@ -24,4 +24,10 @@ function trait(){
 
 }
 setInterval(trait,500)
-/* end traits projet */
+ end traits projet */
+
+ // Alert Discord
+function discordalert() {
+    alert("Mon Discord: BenKoY#5158\nDiscord KBAB: https://discord.gg/CbNftHWk2f" )
+}
+ // end Alert Discord
